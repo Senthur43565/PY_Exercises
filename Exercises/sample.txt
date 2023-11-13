@@ -1,0 +1,12 @@
+This is a sample text file.
+
+
+It contains multiple lines of text.
+
+You can use this file to practice reading and processing text data in Python.
+
+Feel free to add more content to this file for experimentation.
+text
+text
+hello how are you
+hello how are you
